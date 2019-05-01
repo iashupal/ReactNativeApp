@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nitinkumar/Desktop/react-native/skyscanner/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nitinkumar/Documents/ReactNativeApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/Users/nitinkumar/Documents/ReactNativeApp/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "47",
+                        "endOffsets": "59"
+                    },
+                    "to": {
+                        "startLines": "256",
+                        "startColumns": "4",
+                        "startOffsets": "17057",
+                        "endColumns": "47",
+                        "endOffsets": "17100"
+                    }
+                },
                 {
                     "source": "/Users/nitinkumar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5c6bd16dba02c4308c53a8aa820415b7/res/values/values.xml",
                     "from": {
@@ -23,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nitinkumar/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/c239ddadc72eaeebcb8b288b12fb247a/res/values/values.xml",
+                    "source": "/Users/nitinkumar/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/4c140428c1347b24cbb1daea22c3f441/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,42,45,48,51,54,58,62,65,68,71,74,75,76,83,90,93,96,99,105",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -58,23 +75,6 @@
                         "endLines": "2,1823,2537,2626",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "206,123943,162349,167560"
-                    }
-                },
-                {
-                    "source": "/Users/nitinkumar/Desktop/react-native/skyscanner/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "47",
-                        "endOffsets": "59"
-                    },
-                    "to": {
-                        "startLines": "256",
-                        "startColumns": "4",
-                        "startOffsets": "17057",
-                        "endColumns": "47",
-                        "endOffsets": "17100"
                     }
                 },
                 {
@@ -116,7 +116,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nitinkumar/Desktop/react-native/skyscanner/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/nitinkumar/Documents/ReactNativeApp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
